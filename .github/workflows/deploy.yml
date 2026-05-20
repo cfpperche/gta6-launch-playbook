@@ -29,6 +29,8 @@ jobs:
         uses: withastro/action@v6
         with:
           path: ./site
+          # No lockfile is committed, so the package manager must be explicit.
+          package-manager: npm
 
   deploy:
     needs: build
