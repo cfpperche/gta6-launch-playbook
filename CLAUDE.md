@@ -40,10 +40,11 @@ with real cost, real effort, and an honest downside.
 | Path | Purpose |
 |---|---|
 | `source/thread.md` | The original source thread, archived with provenance. |
-| `opportunities/README.md` | The 12 opportunities catalogued — what each is, what it needs, how it monetizes. |
+| `opportunities/README.md` | The 17 opportunities catalogued — what each is, what it needs, how it monetizes. |
 | `automation/` | One brief per opportunity: how far AI can take development + operation toward 100%, humans-in-the-loop. |
 | `evaluation/README.md` | Scoring rubric + first-pass scorecard + decision shortlist. |
 | `timeline/README.md` | GTA 6 milestone calendar, signals to watch, per-opportunity watchlist. |
+| `site/` | Public one-page site (Astro) — deployed to GitHub Pages by `.github/workflows/deploy.yml`. |
 
 ## The date everything is timed against
 

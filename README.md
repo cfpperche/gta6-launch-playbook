@@ -11,7 +11,7 @@ timeline — so any decision to act is made deliberately and early, not reactive
 
 ## Contents
 
-- **[`opportunities/`](opportunities/)** — the 12 opportunities catalogued: what
+- **[`opportunities/`](opportunities/)** — the 17 opportunities catalogued: what
   each is, what it requires, how it monetizes, and what failure looks like.
 - **[`automation/`](automation/)** — one brief per opportunity: how far AI can
   take development and operation toward 100%, with humans in the loop.
@@ -20,6 +20,12 @@ timeline — so any decision to act is made deliberately and early, not reactive
 - **[`timeline/`](timeline/)** — GTA 6 milestone calendar and the signals worth
   watching between now and launch.
 - **[`source/`](source/)** — the source material this analysis started from.
+- **[`site/`](site/)** — the public one-page site (Astro), deployed to GitHub
+  Pages via [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml).
+
+## Live site
+
+<https://cfpperche.github.io/gta6-launch-playbook/>
 
 ## Status
 
