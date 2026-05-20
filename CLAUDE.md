@@ -41,6 +41,7 @@ with real cost, real effort, and an honest downside.
 |---|---|
 | `source/thread.md` | The original source thread, archived with provenance. |
 | `opportunities/README.md` | The 12 opportunities catalogued — what each is, what it needs, how it monetizes. |
+| `automation/` | One brief per opportunity: how far AI can take development + operation toward 100%, humans-in-the-loop. |
 | `evaluation/README.md` | Scoring rubric + first-pass scorecard + decision shortlist. |
 | `timeline/README.md` | GTA 6 milestone calendar, signals to watch, per-opportunity watchlist. |
 

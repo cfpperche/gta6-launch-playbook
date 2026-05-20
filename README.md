@@ -13,6 +13,8 @@ timeline — so any decision to act is made deliberately and early, not reactive
 
 - **[`opportunities/`](opportunities/)** — the 12 opportunities catalogued: what
   each is, what it requires, how it monetizes, and what failure looks like.
+- **[`automation/`](automation/)** — one brief per opportunity: how far AI can
+  take development and operation toward 100%, with humans in the loop.
 - **[`evaluation/`](evaluation/)** — scoring rubric, first-pass scorecard,
   decision shortlist.
 - **[`timeline/`](timeline/)** — GTA 6 milestone calendar and the signals worth
