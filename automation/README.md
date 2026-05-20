@@ -1,6 +1,6 @@
 # Automation briefs
 
-One brief per opportunity (`01`–`12`), each answering a single question:
+One brief per opportunity (`01`–`17`), each answering a single question:
 
 > **How far can AI take the development *and* the day-to-day operation of this
 > opportunity toward 100% — with humans allowed in the loop?**
@@ -58,6 +58,11 @@ Four things stay human across every opportunity:
 | [10](10-memecoins.md) | GTA 6 memecoins | High | High | ~85% *mech* | Nothing fixes a 95% rug rate — automation amplifies ruin |
 | [11](11-streaming-infra-crypto.md) | Streaming-infra crypto | Trivial | Trivial | ~90% *exec* | Thesis validation |
 | [12](12-web3-rp-server.md) | Web3 RP server | High | Medium | ~75% *tech* | Legal / regulatory / ToS — non-technical walls |
+| [13](13-b2b-intelligence.md) | B2B intelligence product | High | High | ~85% | B2B sales; institutional credibility; data-accuracy accountability |
+| [14](14-trust-and-safety.md) | Trust & safety service | High | High | ~80% | The verification *judgment* & accountability; adversary co-evolution |
+| [15](15-ptbr-hub.md) | pt-BR-first GTA 6 hub | Very high | High | ~85% | Native market knowledge & presence — not translation |
+| [16](16-consolidation.md) | Post-hype consolidation | Medium | High | ~75% | M&A judgment; audience assets don't transfer cleanly |
+| [17](17-talent-layer.md) | Talent & labor layer | High | Medium | ~70% | The product *is* humans & trust — relationships don't automate |
 
 *exec* / *mech* / *tech* = the figure measures execution mechanics only. For Tier 2
 a high number does **not** mean the opportunity is good — see § *The Tier 1 /

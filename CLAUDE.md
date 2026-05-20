@@ -68,7 +68,9 @@ A PC port is *estimated* (not confirmed) for mid-2027, following the GTA 5 patte
 - All working docs in English. `source/thread.md` keeps the original capture
   (Portuguese auto-translation of a Spanish-language thread) for fidelity.
 - Dates in `YYYY-MM-DD`.
-- One opportunity = one numbered entry (`1`–`12`). Numbering is fixed to the
-  source thread so cross-references stay stable across files.
+- One opportunity = one numbered entry (`1`–`17`): `1`–`12` from the source
+  thread, `13`–`17` from blind-spot analysis. Numbering is fixed so
+  cross-references stay stable across files.
 - Tier 1 = opportunities 1–7 (operate a business). Tier 2 = opportunities 8–12
-  (allocate capital). The two are evaluated differently — see `evaluation/`.
+  (allocate capital). Tier 3 = opportunities 13–17 (beyond the thread). The tiers
+  are evaluated differently — see `evaluation/`.

@@ -1,12 +1,15 @@
-# The 12 opportunities
+# The 17 opportunities
 
-Catalogued from [`source/thread.md`](../source/thread.md). Numbering is fixed to
-the source thread (`1`–`12`) so cross-references stay stable. Each entry is
+Opportunities `1`–`12` are catalogued from [`source/thread.md`](../source/thread.md);
+`13`–`17` were added from a structured analysis of that thread's blind spots (see
+§ *Tier 3*). Numbering is fixed so cross-references stay stable. Each entry is
 re-stated as a normal business or capital decision — what it is, what it requires,
 how it makes money, and **what failure looks like**.
 
 - **Tier 1 (1–7)** — operate a business. Returns come from work and execution.
 - **Tier 2 (8–12)** — allocate capital. Returns come from timing and risk-taking.
+- **Tier 3 (13–17)** — beyond the thread: second-order and adjacent plays the
+  thread's lens could not see.
 
 ## Summary table
 
@@ -24,6 +27,11 @@ how it makes money, and **what failure looks like**.
 | 10 | GTA 6 memecoins | 2 | Small (YOLO) | Low | Jun–Nov | Total loss — 95%+ rug |
 | 11 | Streaming-infra crypto | 2 | Variable | Low–Med | Entry window | Token underperforms the narrative |
 | 12 | Web3 RP server | 2 | **High** | **High** | Prep now | Rockstar ToS bans it; regulatory risk |
+| 13 | B2B GTA 6 intelligence product | 3 | Medium | Med–High | Now (data compounds) | Too few institutions pay; built in-house |
+| 14 | Trust & safety service | 3 | Low–Med | High | Now → launch | Ecosystem tolerates scams; platforms bundle it free |
+| 15 | pt-BR-first GTA 6 hub | 3 | Low | Low–Med | Now | Lower BR monetization; absentee localization loses |
+| 16 | Post-hype consolidation | 3 | **High** | Medium | 2027–28 (counter-cyclical) | Audiences don't transfer; overpay |
+| 17 | Talent & labor layer | 3 | Low–Med | Medium | Now → ongoing | AI eats the labor demand; marketplace cold-start |
 
 ---
 
@@ -173,6 +181,108 @@ how it makes money, and **what failure looks like**.
 
 ---
 
+# Tier 3 — beyond the thread (second-order & adjacent plays)
+
+The source thread has a fixed lens: **B2C creator + crypto, English-global, timed
+to the launch window, everyone builds their own.** These five opportunities are
+each the *negative* of one of those biases — plays the thread structurally could
+not surface. They are evaluated on the same rubric as the rest (see
+[`../evaluation/`](../evaluation/)).
+
+Three carry a caveat, noted in their entry: **#15** doubles as a market *lens* that
+can be applied to other opportunities; **#16** is capital-flavored and 2027-gated;
+**#17** partly *hedges against* the automation thesis the rest of this playbook
+runs on.
+
+## 13. B2B GTA 6 intelligence product
+
+- **What it is:** a subscription intelligence product on the GTA 6 economy —
+  player metrics, RP-server economics, creator/streamer data, sentiment, sales and
+  pre-order tracking, market sizing — sold B2B to game studios, investment funds,
+  brands, and marketing agencies. An analyst desk for the GTA 6 economy.
+- **Blind spot it fills:** the thread is 100% B2C/retail; the institutional buyer
+  is untouched. It is opportunity #1 (newsletter) sold to institutions at 50–100×
+  the price.
+- **Requires:** data engineering, analysis, and B2B sales. Medium capital. This
+  repo is already a first draft of the product.
+- **Monetizes:** B2B subscriptions (~$500–5k/mo per seat), custom research
+  reports, data API access. High ticket, low volume.
+- **Worst case:** too few institutions pay — retail wants it free; institutions
+  may build in-house or not care enough about a single title.
+- **Note:** the strongest defensibility in the catalogue — data history compounds
+  and institutional trust is sticky.
+
+## 14. Trust & safety as a service
+
+- **What it is:** the trust layer for the GTA 6 ecosystem — scam/rug detection, a
+  "verified" directory of servers/creators/tools, moderation-as-a-service, and
+  anti-fraud tooling, as AI-generated content and crypto scams flood the space.
+- **Blind spot it fills:** the thread assumes everyone competes to *create*;
+  nobody sells the layer that lets buyers *trust* what was created.
+- **Requires:** software/dev, fraud/security literacy, and — heavily —
+  credibility. Low–medium capital.
+- **Monetizes:** SaaS subscriptions (moderation-as-a-service), verification fees,
+  B2B vetting for platforms and brands.
+- **Worst case:** the ecosystem tolerates scams rather than paying to avoid them;
+  or Discord / Twitch / Rockstar bundle trust natively for free.
+- **Note:** counter-cyclical — it grows precisely as the other 16 saturate the
+  ecosystem with content and noise.
+
+## 15. pt-BR-first GTA 6 hub
+
+- **What it is:** a Portuguese-first GTA 6 content network and community hub for
+  the Brazilian / LatAm market — one of the largest GTA roleplay scenes in the
+  world, and underserved by English-global operators.
+- **Blind spot it fills:** the source thread is Spanish-origin but English-global
+  in framing; the lusophone market is invisible to it.
+- **Requires:** native pt-BR and genuine Brazilian-market knowledge, plus whatever
+  underlying build is chosen. Low capital.
+- **Monetizes:** as the underlying opportunity — but in a far less contested
+  market.
+- **Worst case:** lower monetization in BRL; and AI translation is now cheap for
+  *everyone*, so language alone is no moat — an absentee "localized" operation
+  loses to local natives.
+- **Note:** as much a **lens as an opportunity** — its real form is "execute
+  #13 / #6 / #3 / #7 pt-BR-first." The moat is market presence and knowledge, not
+  translation.
+
+## 16. Post-hype consolidation / roll-up
+
+- **What it is:** a capital + operator play — through 2027–2028, after the launch
+  hype fades and amateur operators burn out, acquire cheaply the
+  successful-but-abandoned RP servers, content channels, tool catalogs, and
+  Discord communities; roll them up and run them at low cost with an agent fleet.
+- **Blind spot it fills:** the thread is all "build"; nobody in a hype thread
+  mentions "buy" — least of all *after* the hype.
+- **Requires:** capital to acquire, and the agent-fleet operating capability to
+  run the portfolio cheaply. Patient — 2027+.
+- **Monetizes:** the acquired assets' existing revenue, run at expanded margin
+  (agent-operated, low overhead), plus cross-portfolio synergies.
+- **Worst case:** audiences are loyal to people, not channels — assets bought from
+  their creators can collapse; you overpay; the long tail is thinner than hoped.
+- **Note:** deliberately counter-cyclical — it *waits out* the 2026 launch window
+  rather than racing it.
+
+## 17. Talent & labor layer
+
+- **What it is:** a staffing/marketplace or training-and-certification business
+  for the GTA 6 creator economy — sourcing or training the editors, RP
+  writers/actors, moderators, community managers, and server admins the five-year
+  economy will demand.
+- **Blind spot it fills:** the thread treats every role as either "you" or "AI";
+  it ignores the human-labor market the economy actually generates.
+- **Requires:** recruiting/operations or curriculum design, plus sales. Low–medium
+  capital.
+- **Monetizes:** placement fees / marketplace take-rate, or course and
+  certification sales.
+- **Worst case:** AI eats more of the human-touch roles than expected and the
+  labor demand shrinks; or it stays a low-margin people-business that won't scale.
+- **Note:** the one opportunity that **hedges against the automation thesis** — it
+  *gains* if AI underperforms on the human-touch roles the rest of this playbook
+  assumes away.
+
+---
+
 ## Cross-cutting observations
 
 - **Tier 1 items 2, 3, 4 are the same underlying bet** (creator attention) at
@@ -184,5 +294,9 @@ how it makes money, and **what failure looks like**.
   the 2026 window. They are *preparation* plays, not launch plays.
 - **The whole of Tier 2 is one decision**, not five — "how much, if any, capital
   to expose to GTA-6-correlated assets" — and it is independent of any Tier 1 work.
+- **Tier 3 reframes the board.** #13 and #15 score at the top of the entire
+  catalogue on intrinsic merit, and #13 carries a real moat the Tier-1 creator
+  cluster lacks. The thread's "12 ways" was one lens on the opportunity set, not
+  the whole of it.
 
 These observations feed directly into [`../evaluation/README.md`](../evaluation/README.md).

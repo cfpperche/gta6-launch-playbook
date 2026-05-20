@@ -82,6 +82,28 @@ expose to GTA-6-correlated assets.*
 Default stance carried into the shortlist: Tier 2 is capped capital, not a
 business plan, and is **independent of** whichever Tier 1 path is chosen.
 
+### Tier 3 — beyond the thread (scored on the full rubric)
+
+The five blind-spot opportunities (see [`../opportunities/`](../opportunities/)
+§ *Tier 3*). #13/#14/#15/#17 are businesses to operate and score on the Tier 1
+rubric; #16 is capital-flavored and scored too, with the caveat that its low
+2026-fit is deliberate (it is a 2027 counter-cyclical play).
+
+| # | Opportunity | Capital safety | Downside safety | Defensibility | Upside ceiling | 2026 fit | **Intrinsic avg** | Skill fit | Time fit | Risk fit |
+|---|---|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 13 | B2B intelligence product | 4 | 4 | 4 | 4 | 5 | **4.2** | `?` | `?` | `?` |
+| 14 | Trust & safety service | 4 | 4 | 4 | 3 | 4 | **3.8** | `?` | `?` | `?` |
+| 15 | pt-BR-first GTA 6 hub | 5 | 5 | 3 | 3 | 5 | **4.2** | `?` | `?` | `?` |
+| 16 | Post-hype consolidation | 1 | 2 | 3 | 4 | 1 | **2.2** | `?` | `?` | `?` |
+| 17 | Talent & labor layer | 4 | 4 | 3 | 3 | 4 | **3.6** | `?` | `?` | `?` |
+
+**Reading it.** #13 and #15 tie the **highest intrinsic score in the whole
+catalogue** (4.2, level with #2 and #6) — and #13 reaches it with **defensibility
+4**, where the high-scoring Tier-1 creator cluster sits at 2. On intrinsic merit
+the B2B intelligence product is the single strongest opportunity on the board.
+#16 scores low only because it is deliberately 2027-gated — its 2026-fit of 1 is
+a feature of the strategy, not a flaw.
+
 ---
 
 ## 3. Decision shortlist (provisional — intrinsic-only)
@@ -127,6 +149,28 @@ pre-decided share of capital; TTWO (#8) is the only item with a business beneath
 it; memecoins (#10) are strictly money-you-can-afford-to-lose. Sizing and entry
 are a capital-allocation conversation, tracked in [`../timeline/`](../timeline/),
 not a reason to skip building.
+
+### Tier 3 additions — and a new front-runner
+
+The five Tier 3 opportunities reshape the shortlist:
+
+- **#13 B2B intelligence product** is, on intrinsic merit, the **strongest single
+  opportunity in the catalogue** — 4.2 average *with* defensibility 4, the moat
+  the Tier-1 creator cluster lacks. It is also the lowest-leap option: this repo
+  is already a first draft of it. Promoted to **co-primary candidate alongside #6.**
+- **#15 pt-BR-first hub** ties at 4.2 and is matched to an edge nobody can
+  copy — native market knowledge. Best read as a **wedge**: pick #13 or #6 and
+  execute it pt-BR-first.
+- **#14 trust & safety** (3.8) is solid and the strongest fit for a
+  governance/safety background — a credible **phase-2 or parallel** play.
+- **#17 talent layer** (3.6) is a deliberate **hedge** — the one opportunity that
+  *gains* if the automation thesis underperforms.
+- **#16 consolidation** stays a **phase-2 / 2027 capital play**, parked like #7.
+
+**Updated provisional read:** **#13 (B2B intelligence) and #6 (picks & shovels)**
+as the two primary candidates — both executable pt-BR-first (#15 as the wedge),
+with **#14** as the governance-aligned parallel. Still provisional, pending the
+four personal inputs in § 4.
 
 ---
 
